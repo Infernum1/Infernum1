@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Infernum1](github.com/Infernum1)
 
-- 💬 Ask me about **Python, Discord.py**
-
 - ⚡ Fun fact **I am funny lol**
 
 - 📫 Contact me **Infernum#7041 on Discord**
