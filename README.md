@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋, I'm Infernum</h1>
+<h1 align="center">Hey! I'm Infernum</h1>
 <h3 align="center">An aspiring Python developer from India</h3>
 
 - 🔭 I’m currently working on [MCUtility](github.com/Infernum1/MCUtility)
