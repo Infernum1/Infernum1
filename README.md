@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infernum1&theme=dark&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Infernum's GitHub stats](https://github-readme-stats.vercel.app/api?username=infernum1&theme=gradient&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Infernum's GitHub stats](https://github-readme-stats.vercel.app/api?username=infernum1&theme=tokyonight&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
