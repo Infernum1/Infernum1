@@ -1,6 +1,8 @@
 <h1 align="center">Hey! I'm Infernum</h1>
 <h3 align="center">An aspiring Python developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=infernum1&label=Profile%20views&color=0e75b6&style=flat" alt="infernum1" /> </p>
+
 - 🔭 I’m currently working on [MCUtility](github.com/Infernum1/MCUtility)
 
 - 🌱 I’m currently learning **Python and JS**
