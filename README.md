@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infernum1&label=Profile%20views&color=0e75b6&style=flat" alt="infernum1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infernum1" alt="infernum1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infernum1&theme=dark" alt="infernum1" /></a> </p>
 
 - 🔭 I’m currently working on [MCUtility](github.com/Infernum1/MCUtility)
 
