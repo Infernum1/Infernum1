@@ -18,4 +18,4 @@
 <a href="https://discord.gg/jJqJ3rjgqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jJqJ3rjgqg" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infernum1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infernum1&theme=dark&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
