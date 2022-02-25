@@ -18,6 +18,6 @@
 <a href="https://discord.gg/jJqJ3rjgqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jJqJ3rjgqg" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infernum1&theme=tokyonight&show_icons=True&hide_border=True&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infernum1&theme=dracula&show_icons=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Infernum's GitHub stats](https://github-readme-stats.vercel.app/api?username=infernum1&theme=tokyonight&show_icons=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Infernum's GitHub stats](https://github-readme-stats.vercel.app/api?username=infernum1&theme=dracula&show_icons=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
