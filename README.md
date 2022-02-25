@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infernum1&theme=dracula&show_icons=True&hide_border=True&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Infernum's GitHub stats](https://github-readme-stats.vercel.app/api?username=infernum1&theme=dracula&show_icons=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Infernum's GitHub stats](https://github-readme-stats.vercel.app/api?username=infernum1&theme=dracula&show_icons=True&hide_border=True&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
