@@ -18,6 +18,10 @@
 <a href="https://discord.gg/jJqJ3rjgqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jJqJ3rjgqg" height="30" width="40" /></a>
 </p>
 
+<a href="https://github.com/anuraghazra/MCUtility">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infernum1&repo=MCUtility" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infernum1&theme=dracula&show_icons=True&hide_border=True&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Infernum's GitHub stats](https://github-readme-stats.vercel.app/api?username=infernum1&theme=dracula&show_icons=True&hide_border=True&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
