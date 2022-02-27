@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and JS**
 
-- 👨‍💻 All of my projects are available at [github.com/Infernum1](github.com/Infernum1)
+- 👨‍💻 All of my projects are available at [Infernum1](https://github.com/Infernum1)
 
 - ⚡ Fun fact **I am funny lol**
 
