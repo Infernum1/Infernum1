@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infernum1&label=Profile%20views&color=0e75b6&style=flat" alt="infernum1" /> </p>
 
-- 🔭 I’m currently working on [MCUtility](https://github.com/Infernum1/minecraftstatus)
+- 🔭 I’m currently working on [minecraftstatus](https://github.com/Infernum1/minecraftstatus) and [popcatapi](https://github.com/Infernum1/PopCatWrapper)
 
 - 🌱 I’m currently learning **Python**
 
