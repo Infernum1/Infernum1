@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python or discord bots**
 
-- 📫 How to reach me **Infernum#7041 on Discord**
+- 📫 **Infernum#7041 on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
